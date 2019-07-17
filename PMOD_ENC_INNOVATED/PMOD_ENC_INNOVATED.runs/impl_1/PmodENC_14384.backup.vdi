@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Tue Apr 02 20:02:46 2019
+# Process ID: 14384
+# Current directory: W:/Desktop/PmodENC_Source/project_test_pmodenc/project_test_pmodenc.runs/impl_1
+# Command line: vivado.exe -log PmodENC.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source PmodENC.tcl -notrace
+# Log file: W:/Desktop/PmodENC_Source/project_test_pmodenc/project_test_pmodenc.runs/impl_1/PmodENC.vdi
+# Journal file: W:/Desktop/PmodENC_Source/project_test_pmodenc/project_test_pmodenc.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source PmodENC.tcl -notrace
+
+*** Halting run - EA reset detected ***
+
+
+
+    while executing
+"start_step init_design"
+    (file "PmodENC.tcl" line 50)
+INFO: [Common 17-206] Exiting Vivado at Tue Apr 02 20:02:57 2019...
